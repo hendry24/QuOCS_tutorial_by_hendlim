@@ -1,1 +1,1 @@
-I had the chance to give a two-hour tutorial session on the Quantum Optimal Control Suite (QuOCS) alongside Dr. Ressa Said. This repository contains the tutorial resources.
+I had the chance to give a two-hour tutorial session on the Quantum Optimal Control Suite (QuOCS) alongside Dr. Ressa Said at a Mini-Workshop on NV Experiments and Quantum Sensing held at the Qatar Center for Quantum Computing (QC2) by Ulm University's Institute for Quantum Optics (IQO), 23&endash;27 February 2025. This repository contains the tutorial resources.
